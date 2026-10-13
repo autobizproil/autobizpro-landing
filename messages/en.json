@@ -3,18 +3,18 @@
     "features": "Features",
     "pricing": "Pricing",
     "contact": "Contact",
-    "cta": "Start Free Trial"
+    "cta": "Book a call"
   },
   "hero": {
     "badge": "CRM + Automations for Business",
     "headline": "Manage clients, automations & sales — all in one place",
     "subtitle": "A smart platform that saves time, grows sales, and streamlines your business",
-    "cta_primary": "Start Free Trial",
+    "cta_primary": "Book a discovery call",
     "cta_secondary": "Contact Us"
   },
   "social": {
-    "text": "Trusted by 500+ businesses",
-    "rating": "Rated 4.9 ★★★★★"
+    "text": "An Israeli CRM, fully in Hebrew",
+    "rating": "A short discovery call, no commitment"
   },
   "features": {
     "section_label": "Features",
@@ -30,12 +30,12 @@
   },
   "pricing": {
     "section_label": "Pricing",
-    "section_title": "Simple, transparent pricing",
+    "section_title": "Priced for the size of your business",
     "crm_name": "CRM",
-    "crm_price": "₪80",
-    "crm_period": "per user / month",
+    "crm_price": "Tailored",
+    "crm_period": "set on a discovery call",
     "crm_desc": "Lead management, customers & reports",
-    "crm_cta": "Start Free Trial",
+    "crm_cta": "Book a discovery call",
     "auto_name": "Automations",
     "auto_price": "Custom",
     "auto_desc": "Workflows tailored to your business",
@@ -43,8 +43,8 @@
   },
   "cta": {
     "headline": "Ready to start?",
-    "subtitle": "Join 500+ businesses already growing with AutoBizPro",
-    "button": "Start Free Trial — No Credit Card Required"
+    "subtitle": "A short discovery call, then a pilot on your own business",
+    "button": "Book a discovery call — no commitment"
   },
   "footer": {
     "tagline": "CRM & Automations for smart businesses",
